@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\bin\Debug\hw4_decimal_double.exe.config
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\bin\Debug\hw4_decimal_double.exe
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\bin\Debug\hw4_decimal_double.pdb
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.Form1.resources
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.Properties.Resources.resources
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.exe
+C:\Users\User\source\repos\oop_hw\hw4_decimal_double\obj\Debug\hw4_decimal_double.pdb
