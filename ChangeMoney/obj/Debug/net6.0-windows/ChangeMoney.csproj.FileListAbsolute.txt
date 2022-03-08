@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.Form1.resources
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.AssemblyInfo.cs
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\oop_hw\ChangeMoney\bin\Debug\net6.0-windows\ChangeMoney.exe
+C:\Users\User\source\repos\oop_hw\ChangeMoney\bin\Debug\net6.0-windows\ChangeMoney.deps.json
+C:\Users\User\source\repos\oop_hw\ChangeMoney\bin\Debug\net6.0-windows\ChangeMoney.runtimeconfig.json
+C:\Users\User\source\repos\oop_hw\ChangeMoney\bin\Debug\net6.0-windows\ChangeMoney.dll
+C:\Users\User\source\repos\oop_hw\ChangeMoney\bin\Debug\net6.0-windows\ChangeMoney.pdb
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.dll
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\refint\ChangeMoney.dll
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.pdb
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ChangeMoney.genruntimeconfig.cache
+C:\Users\User\source\repos\oop_hw\ChangeMoney\obj\Debug\net6.0-windows\ref\ChangeMoney.dll
